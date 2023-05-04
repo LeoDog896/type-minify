@@ -1,0 +1,16 @@
+{
+  "name": "type-minify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LeoDog896/type-minify",
+  "author": "Tristan F. <LeoDog896@hotmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "ts-morph": "^18.0.0",
+    "typescript": "^5.0.4"
+  }
+}
